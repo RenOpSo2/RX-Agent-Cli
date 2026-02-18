@@ -26,7 +26,7 @@ but can execute tasks directly from the terminal.
 
 ## 🖼️ Preview
 <p align="center">
-  <img src="assets/preview.png" width="600">
+  <img src="preview.png" width="600">
 </p>
 
 ---
