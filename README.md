@@ -33,19 +33,12 @@ but can execute tasks directly from the terminal.
 
 ## ⚙️ Installation
 
-### 🐧 Linux / MacOS
+### 🐧 Linux / Windows / MacOS
 ```bash
 pip install -r requirements.txt
 chmod +x start.sh
 ./start.sh
 ```
-
-### 🪟 Windows
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
 
 
 # For your contribution, you can add new features or fix existing bugs.
